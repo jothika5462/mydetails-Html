@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>Myself</title>
+    <h1 style="color: blue;  
+            font-style: italic;  
+            text-align: center;
+               font -size : 220px;
+            padding-top: 25px;">M.G JOTHIKA</h1>
+     
+  </h1>
+</head>
+
+<body>
+ 
+  <h2>Education Details </h2>
+  <ul>
+    <li> School Name</li>
+      <p> St Ann's Matric higher secondary school panagudi,Tirunelveli District</p>
+    <li> College Name</li>
+    <p> V.S.B Engineering College,Karudapalayam,karur District</p>
+  </ul>
+  <h2>Family Details</h2>
+  <ul>
+    <li>Father 's Name = N.Muthu Pandi</li>
+    <p>Qualification = BA , DEEE</p>
+    <p>Occupation  = Electrician</P>
+   
+    <li> Mother's Name= R.Guna selvi</li>
+    <p>Qualification = MA, MPHIL ,B.ed</p>
+    <p> Occupation = Teacher</p>
+    
+    <li>Sister's name = M.G Darsiniga</li>
+    <p> Qualification = BE-CSE </p>
+  </ul> 
+  <h3> Passion</h3>
+  <ul>
+  <li>trying to learn new things</li>
+    <li> playing chess game</li>
+    <li> wrinting poem and blogs </li>
+    </body>
+
+</html>
